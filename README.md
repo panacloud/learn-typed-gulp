@@ -1,2 +1,4 @@
-# learn-gulp-typescript
-Learn to use Gulp using TypeScript in Baby Steps
+# Learn to use Gulp using TypeScript in Baby Steps
+http://gulpjs.com/
+
+http://www.typescriptlang.org/

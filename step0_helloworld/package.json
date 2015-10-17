@@ -1,0 +1,15 @@
+{
+  "name": "step0_helloworld",
+  "version": "1.0.0",
+  "description": "Install Node.js: https://nodejs.org/",
+  "main": "index.js",
+  "scripts": {
+    "gulp": "tsc -target es5 -module commonjs gulpfile.ts && gulp"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0"
+  }
+}
