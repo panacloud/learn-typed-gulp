@@ -23,3 +23,8 @@ To run node app:
 node dist/index
 
 
+We will use the following book to learn Gulp:
+http://www.amazon.com/Developing-gulp-Edge-Streaming-System-ebook/dp/B00PVDODGI/
+
+
+
